@@ -1,16 +1,16 @@
 {
-"name": "casino0306",
-"theme": "casino 0306",
-"version": "2.5.8",
-"description": "casino 0306 สมัครสมาชิกเว็บไซต์บาคาร่าเว็บตรง อันดับ 1 แจกเงินเครดิตฟรี",
-"keywords": [
-"casino 0306",
-"casino 0306 เครดิตฟรี",
-"casino 0306 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/casino0306",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "casino0306",
+  "theme": "casino 0306",
+  "version": "2.6.0",
+  "description": "casino 0306 สมัครสมาชิกเว็บไซต์บาคาร่าเว็บตรง อันดับ 1 แจกเงินเครดิตฟรี",
+  "keywords": [
+    "casino 0306",
+    "casino 0306 เครดิตฟรี",
+    "casino 0306 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/casino0306",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
